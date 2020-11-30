@@ -1,0 +1,20 @@
+{
+  "id": 223,
+  "filmTitle": "Mystic River",
+  "year": 2003,
+  "checkBox": false,
+  "votes": 159.86,
+  "type": {
+    "text": "text",
+    "number": "number",
+    "dropDown": "dropDown",
+    "checkbox" : "checkbox"
+  },
+  "isDropdown": {
+    "a": 1,
+    "b": 2,
+    "c": 3
+  }
+}
+
+

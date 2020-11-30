@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import "~normalize.css";
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+table {
+
+  th {
+    border-right: 1px solid gray;
+    background-color: #f4f5f9;
+  }
+  #table__elements {
+    font-size: 3rem;
+    border: 1px solid black;
+  }
+}
+
+
+
+
+//table {
+//  margin-top: 30px;
+//  font-size: 1.5rem;
+//
+//  thead {
+//
+//    tr {
+//
+//      background-color: #f4f5f9;
+//
+//      th {
+//        border-bottom: 1px solid cyan;
+//        border-right: 1px solid gray;
+//      }
+//
+//    }
+//
+//  }
+//
+//  #table__elements {
+//
+//
+//
+//
+//  }
+//
+//}
+
+
+
